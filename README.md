@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/Rt"><img src="https://api.daily.dev/devcards/d032c9bc37c74e2c917f25195aa6f986.png?r=nxq" width="400" alt="Ranto's Dev Card"/></a>
+
 <!--
 **Runtu4378/Runtu4378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
